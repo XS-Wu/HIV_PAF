@@ -31,8 +31,6 @@ python -m src.run_review_example
 
 On macOS or Linux, activate the environment with `source .venv/bin/activate` instead.
 
-The runner writes the scenario summary and the fixed-multiplier sensitivity results to `outputs/`.
-
 
 ## Runtime
 The complete workflow typically runs within 2 minutes on a standard laptop.
